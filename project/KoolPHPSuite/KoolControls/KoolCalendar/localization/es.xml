@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<localization xmlns="koolcalendar:localization-schema">
+	<Commands 
+		Today			= "Hoy"
+		OK 				= "OK"
+		Cancel 			= "Cancel"
+	/>
+	<Months_Full
+		January			= "Enero"
+		February		= "Febrero"
+		March			= "Marzo"
+		April			= "Abril"
+		May				= "Mayo"
+		June			= "Junio"
+		July			= "Julio"
+		August			= "Agosto"
+		September		= "Septiembre"
+		October			= "Octubre"
+		November		= "Noviembre"
+		December		= "Diciembre"	
+	/>
+	<Months_Short
+		January			= "Jan"
+		February		= "Feb"
+		March			= "Mar"
+		April			= "Apr"
+		May				= "May"
+		June			= "Jun"
+		July			= "Jul"
+		August			= "Aug"
+		September		= "Sep"
+		October			= "Oct"
+		November		= "Nov"
+		December		= "Dec"	
+	/>
+	<DaysOfWeek_Full
+		Sunday			= "Domingo"
+		Monday			= "Lunes"
+		Tuesday			= "Martes"
+		Wednesday		= "Miercoles"
+		Thursday		= "Jueves"
+		Friday			= "Viernes"
+		Saturday		= "Sabado"		
+	/>
+	<DaysOfWeek_Short
+		Sunday			= "Dom"
+		Monday			= "Lun"
+		Tuesday			= "Mar"
+		Wednesday		= "Mie"
+		Thursday		= "Jue"
+		Friday			= "Vie"
+		Saturday		= "Sab"		
+	/>
+	<DaysOfWeek_Shortest
+		Sunday			= "D"
+		Monday			= "L"
+		Tuesday			= "M"
+		Wednesday		= "X"
+		Thursday		= "J"
+		Friday			= "V"
+		Saturday		= "S"		
+	/>	
+</localization>
