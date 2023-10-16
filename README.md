@@ -6,6 +6,7 @@ La idea general del proyecto es crear un software en la nube modelo LAMP para el
 Para ello he creado un proyecto en github colaborativo siguiendo el modelo LAMP, con licencia GPL en GitHub. Animo a todo el mundo que esté interesado en colaborar mejorando los apartados que posee la herramienta.
 Existe una plantilla en Bootstrap y uso controles grid que permiten el uso libre. No obstante pueden cambiarse si se desea.
 
+
 Basado en la guía oficial de SCRUM - Nov 2020
 
 Plataforma LAMP , PHP ver 7.4.
