@@ -34,6 +34,10 @@ Usuario:  scrumadmin
 
 password: Scrum4Master
 
+
+Si el gestor de base de datos va lento, puede ser cambiado con otra decidido por el equipo.
+
+
 La base de datos posee tablas para uso de controles KoolGrid
 https://www.koolphp.net/koolphp-ui/grid
 
