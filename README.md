@@ -27,8 +27,11 @@ https://www.db4free.net/
 phpmyadmin:
 https://www.db4free.net/phpMyAdmin/
 
+
 Base de datos: scrum4master
+
 Usuario:  scrumadmin
+
 password: Scrum4Master
 
 
@@ -36,3 +39,4 @@ URL de la demo actual (en desarrollo): https://scrum-master.es
 
 by https://palentino.es
 Oscar de la Cuesta 
+@oscardelacuesta
