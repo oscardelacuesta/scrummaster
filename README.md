@@ -34,6 +34,9 @@ Usuario:  scrumadmin
 
 password: Scrum4Master
 
+La base de datos posee tablas para uso de controles KoolGrid
+https://www.koolphp.net/koolphp-ui/grid
+
 
 URL de la demo actual (en desarrollo): https://scrum-master.es
 
