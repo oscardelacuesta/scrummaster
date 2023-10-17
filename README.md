@@ -11,5 +11,7 @@ Basado en la guía oficial de SCRUM - Nov 2020
 
 Plataforma LAMP , PHP ver 7.4
 
+Actualmente no se encuentra el fichero de sql stucture.sql
+
 
 https://scrum-master.es
