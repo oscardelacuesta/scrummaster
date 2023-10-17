@@ -38,7 +38,7 @@ password: Scrum4Master
 Si el gestor de base de datos va lento, puede ser cambiado con otra decidido por el equipo.
 
 
-La base de datos posee tablas para uso de controles KoolGrid
+La base de datos posee tablas para uso de controles KoolGrid. Además de otros controles adicionales que permiten trabajar con AJAX, Jquery, CSS, etc sobre PHP.
 https://www.koolphp.net/koolphp-ui/grid
 
 
