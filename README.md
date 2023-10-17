@@ -6,6 +6,11 @@ La idea general del proyecto es crear un software en la nube modelo LAMP para el
 Para ello he creado un proyecto en github colaborativo siguiendo el modelo LAMP, con licencia GPL en GitHub. Animo a todo el mundo que esté interesado en colaborar mejorando los apartados que posee la herramienta.
 Existe una plantilla en Bootstrap y uso controles grid que permiten el uso libre. No obstante pueden cambiarse si se desea.
 
+Dejo los pilares para comenzar a desarrollar el proyecto.
+
+I leave the pillars to start developing the project.
+
+
 The general idea of ​​the project is to create a LAMP model cloud software for teamwork, managing the monitoring of projects with its various actors under the agile SCRUM methodology.
 To do this, I have created a collaborative project on GitHub following the LAMP model, with a GPL license on GitHub. I encourage everyone who is interested in collaborating by improving the sections that the tool has.
 There is a template in Bootstrap and I use grid controls that allow free use. However, they can be changed if desired.
