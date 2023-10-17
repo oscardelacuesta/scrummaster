@@ -9,7 +9,7 @@ Existe una plantilla en Bootstrap y uso controles grid que permiten el uso libre
 
 Basado en la guía oficial de SCRUM - Nov 2020
 
-Plataforma LAMP , PHP ver 7.4
+Plataforma LAMP , PHP ver 7.4 -
 
 Actualmente no se encuentra el fichero de sql stucture.sql 
 
