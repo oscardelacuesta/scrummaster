@@ -20,6 +20,18 @@ Ruta al modelo ER:
 https://github.com/oscardelacuesta/scrummaster/blob/main/Modelo-entidad-relacion-SCRUM.jpg
 
 
+La base de datos común del proyecto es:
+La base de datos se ha creado en:
+https://www.db4free.net/
+
+phpmyadmin:
+https://www.db4free.net/phpMyAdmin/
+
+Base de datos: scrum4master
+Usuario:  scrumadmin
+password: Scrum4Master
+
+
 URL de la demo actual (en desarrollo): https://scrum-master.es
 
 by https://palentino.es
