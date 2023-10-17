@@ -20,4 +20,7 @@ Ruta al modelo ER:
 https://github.com/oscardelacuesta/scrummaster/blob/main/Modelo-entidad-relacion-SCRUM.jpg
 
 
-https://scrum-master.es
+URL de la demo actual (en desarrollo): https://scrum-master.es
+
+by https://palentino.es
+Oscar de la Cuesta 
