@@ -21,7 +21,6 @@ Basado en la guía oficial de SCRUM - Nov 2020
 
 Plataforma LAMP , PHP ver 7.4 -
 
-Actualmente no se encuentra el fichero de sql stucture.sql 
 
 Puedes entrar con el usuario, demo y password demo en el entorno de demo, pero faltan desarrollos de páginas, ofreciendo
 sólo un perspectiva de la estructura del menu y apariencia de la aplicación.
