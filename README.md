@@ -31,6 +31,9 @@ sólo un perspectiva de la estructura del menu y apariencia de la aplicación.
 
 Ruta al modelo ER: 
 https://github.com/oscardelacuesta/scrummaster/blob/main/Modelo-entidad-relacion-SCRUM.jpg
+<p align="center">
+   <img src="https://github.com/oscardelacuesta/scrummaster/blob/main/Modelo-entidad-relacion-SCRUM.jpg">
+</p>
 
 
 La base de datos común del proyecto es:
