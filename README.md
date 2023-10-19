@@ -1,6 +1,6 @@
 # scrummaster
 
-![Scrum-Master logo](https://scrum-master/imagenes/scrum-4-master.png)
+![Scrum-Master logo](https://scrum-master.es/imagenes/scrum-4-master.png)
 Cloud tool for managing agile teams and all the agents involved.
 
 
@@ -52,9 +52,12 @@ Si el gestor de base de datos va lento, puede ser cambiado con otra decidido por
 La base de datos posee tablas para uso de controles KoolGrid. Además de otros controles adicionales que permiten trabajar con AJAX, Jquery, CSS, etc sobre PHP.
 https://www.koolphp.net/koolphp-ui/grid
 
-
 URL de la demo actual (en desarrollo): https://scrum-master.es
 
 by https://palentino.es
 Oscar de la Cuesta 
 @oscardelacuesta
+<p align="center">
+   <img src="https://www.palentino.es/blog/wp-content/uploads/2012/12/To-keep-abreast.png">
+</p>
+
