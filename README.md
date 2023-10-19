@@ -1,4 +1,6 @@
 # scrummaster
+
+![Scrum-Master logo](https://scrum-master/imagenes/scrum-4-master.png)
 Cloud tool for managing agile teams and all the agents involved.
 
 
