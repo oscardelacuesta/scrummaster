@@ -5,6 +5,8 @@
 <br/>
 SaaS Cloud tool for managing agile teams and all the agents involved.
 <br/>
+https://share.synthesia.io/embeds/videos/327e9c3a-0729-41f4-a8e5-660b662f9047
+
 Scrum-master es un software SaaS bajo GPL, tecnologías LAMP para permitir el trabajo en equipo gestionando el seguimiento de proyectos con sus diversos actores bajo la metodología ágil SCRUM.
 
 La idea general del proyecto es crear un software en la nube modelo LAMP para el trabajo en equipo gestionando el seguimiento de proyectos con sus diversos actores bajo la metodología ágil SCRUM.
