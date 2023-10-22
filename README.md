@@ -30,7 +30,8 @@ Plataforma LAMP , PHP ver 7.4 -
 
 
 Puedes entrar con el usuario, demo y password demo en el entorno de demo, pero faltan desarrollos de páginas, ofreciendo
-sólo un perspectiva de la estructura del menu y apariencia de la aplicación.
+sólo un perspectiva de la estructura del menu y apariencia de la aplicación. El apartado roles, muestra una pequeña integracion con el GRID.
+Queda mucho trabajo por hacer. ;)
 
 Ruta al modelo ER: 
 https://github.com/oscardelacuesta/scrummaster/blob/main/Modelo-entidad-relacion-SCRUM.jpg
