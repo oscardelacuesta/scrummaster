@@ -42,15 +42,15 @@ https://github.com/oscardelacuesta/scrummaster/blob/main/Modelo-entidad-relacion
 
 La base de datos común del proyecto es:
 La base de datos se ha creado en:
-https://www.db4free.net/
+Servidor:mysql0.serv00.com	
 
 phpmyadmin:
-https://www.db4free.net/phpMyAdmin/
+https://pma.serv00.com/
 
 
-Base de datos: scrum4master
+Base de datos: m8269_scrumadmin
 
-Usuario:  scrumadmin
+Usuario:  m8269_scrumadmin
 
 password: Scrum4Master
 
