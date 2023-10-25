@@ -48,7 +48,7 @@ phpmyadmin:
 https://pma.serv00.com/
 
 
-Base de datos: m8269_scrumadmin
+Base de datos: m8269_scrummaster
 
 Usuario:  m8269_scrumadmin
 
