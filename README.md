@@ -40,26 +40,26 @@ https://github.com/oscardelacuesta/scrummaster/blob/main/Modelo-entidad-relacion
 </p>
 
 
-La base de datos común del proyecto es:
-La base de datos se ha creado en:
-Servidor:mysql0.serv00.com	
+BASE DE DATOS DEL PROYECTO
 
-phpmyadmin:
-https://pma.serv00.com/
+La base de datos se ha creado en un servidor dedicado, para mas comodidad y con la intención de desarrollar programas de escritorio para conectar remotamente.
 
+Servidor:87.106.124.49
 
-Base de datos: m8269_scrummaster
+Base de datos: scrum4master
 
-Usuario:  m8269_scrumadmin
+Usuario:  scrummaster
 
 password: Scrum4Master
 
-
-Si el gestor de base de datos va lento, puede ser cambiado con otra decidido por el equipo.
-
+Puedes usar cualquier gestor gratuito para conectarte, recomiendo:
+Heidi https://www.heidisql.com/
+DBeaver - https://dbeaver.io/
 
 La base de datos posee tablas para uso de controles KoolGrid. Además de otros controles adicionales que permiten trabajar con AJAX, Jquery, CSS, etc sobre PHP.
 https://www.koolphp.net/koolphp-ui/grid
+
+Iré supervisando las modificaciones sobre la base de datos.
 
 URL de la demo actual (en desarrollo): https://scrum-master.es
 
