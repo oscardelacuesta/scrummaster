@@ -40,9 +40,9 @@ https://github.com/oscardelacuesta/scrummaster/blob/main/Modelo-entidad-relacion
 </p>
 
 
-BASE DE DATOS DEL PROYECTO
+<strong>BASE DE DATOS DEL PROYECTO</strong>
 
-La base de datos se ha creado en un servidor dedicado, para mas comodidad y con la intención de desarrollar programas de escritorio para conectar remotamente.
+La base de datos se ha creado en un servidor dedicado, para mayor comodidad y con la intención de desarrollar programas de escritorio para conectar remotamente. Gracias a los gestores puedes trabajar más facilmente.
 
 Servidor:87.106.124.49
 
