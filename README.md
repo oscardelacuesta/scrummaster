@@ -52,8 +52,10 @@ Usuario:  scrummaster
 
 password: Scrum4Master
 
-Puedes usar cualquier gestor gratuito para conectarte, recomiendo:
+Puedes usar cualquier gestor gratuito (existen muchos) para conectarte, recomiendo:
+
 Heidi https://www.heidisql.com/
+
 DBeaver - https://dbeaver.io/
 
 La base de datos posee tablas para uso de controles KoolGrid. Además de otros controles adicionales que permiten trabajar con AJAX, Jquery, CSS, etc sobre PHP.
