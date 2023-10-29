@@ -40,7 +40,7 @@ https://github.com/oscardelacuesta/scrummaster/blob/main/Modelo-entidad-relacion
 </p>
 
 
-<strong>BASE DE DATOS DEL PROYECTO</strong>
+<strong>BASE DE DATOS DEL PROYECTO de DESARROLLO</strong>
 
 La base de datos se ha creado en un servidor dedicado, para mayor comodidad y con la intención de desarrollar programas de escritorio para conectar remotamente. Gracias a los gestores puedes trabajar más facilmente.
 
@@ -64,6 +64,7 @@ https://www.koolphp.net/koolphp-ui/grid
 Iré supervisando las modificaciones sobre la base de datos.
 
 URL de la demo actual (en desarrollo): https://scrum-master.es.
+
 <strong>Cada cierto tiempo revisaré la base de datos en desarrollo y las páginas modificadas, para actualizar la demo online </strong>
 
 by https://palentino.es
