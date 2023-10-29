@@ -59,7 +59,7 @@ Heidi https://www.heidisql.com/
 
 DBeaver - https://dbeaver.io/
 
-La base de datos posee <strongtablas demostración</strong> para uso de controles KoolGrid, si se quieren usar. Además de otros controles adicionales que permiten trabajar con AJAX, Jquery, CSS, etc sobre PHP.
+La base de datos posee <strong>tablas con datos demostración</strong> para uso de controles KoolGrid, si se quieren usar. Además de otros controles adicionales que permiten trabajar con AJAX, Jquery, CSS, etc sobre PHP.
 https://www.koolphp.net/koolphp-ui/grid
 
 Iré supervisando las modificaciones sobre la base de datos.
