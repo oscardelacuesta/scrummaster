@@ -63,7 +63,8 @@ https://www.koolphp.net/koolphp-ui/grid
 
 Iré supervisando las modificaciones sobre la base de datos.
 
-URL de la demo actual (en desarrollo): https://scrum-master.es
+URL de la demo actual (en desarrollo): https://scrum-master.es.
+<strong>Cada cierto tiempo revisaré la base de datos en desarrollo y las páginas modificadas, para actualizar la demo online </strong>
 
 by https://palentino.es
 Oscar de la Cuesta 
